@@ -38,3 +38,15 @@ Component({
   }
 })
 ```
+
+## 跳转小程序
+
+### appid
+
+详情可见
+
+### path
+
+https://developers.weixin.qq.com/community/develop/article/doc/0008066531c28043d2185a4d356813
+
+官网选择生成小程序码
