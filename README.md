@@ -50,3 +50,7 @@ Component({
 https://developers.weixin.qq.com/community/develop/article/doc/0008066531c28043d2185a4d356813
 
 官网选择生成小程序码
+
+## QA
+
+[text嵌套bindtap失效](https://developers.weixin.qq.com/community/develop/doc/0000802480c5d08c3ee727fe756800)
